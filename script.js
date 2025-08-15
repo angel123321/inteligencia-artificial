@@ -10,26 +10,26 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Análise de grandes volumes de dados ambientais para identificar padrões e tendências, auxiliando na criação de modelos preditivos mais precisos sobre eventos climáticos extremos e seus efeitos.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                afirmacao: "Você é uma pessoa reflexiva e cuidadosa buscando entender as consequências."
             },
             {
                 texto:  "Otimização do consumo de energia em indústrias e cidades, além do desenvolvimento de sistemas de gestão de recursos hídricos mais eficientes, com base em análises em tempo real de dados de sensores e satélites.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o futuro do meio ambiente."
             }    
            
         ]
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: " A poluição das águas do mar é um problema ambiental global com sérias consequências para a vida marinha e os ecossistemas costeiros. Quais das seguintes alternativas representam as principais fontes de poluição marinha?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "O descarte irregular de lixo plástico, como garrafas e sacolas, que fragmentam-se em microplásticos.",
+                    afirmacao: "Você demonstra um perfil inovador que sempre busca por mais conhecimento."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  " O derramamento de óleo por acidentes com navios petroleiros e plataformas de extração. ",
+                    afirmacao: "Você é uma pessoa que gosta muito do mar e que sempre busca alguma maneira de cuidar dele então se proucupa com os acidentes petroleiros."
                 }    
                
             ]
