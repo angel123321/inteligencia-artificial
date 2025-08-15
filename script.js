@@ -35,17 +35,17 @@ const perguntas = [
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "A poluição do ar nas grandes cidades é um problema sério, causado principalmente por emissões industriais e veiculares. Diversas tecnologias têm sido desenvolvidas para monitorar, controlar e reduzir a emissão de poluentes na atmosfera. Quais das alternativas a seguir descrevem corretamente o uso da tecnologia na diminuição da poluição do ar?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "A implementação de sistemas de purificação do ar... A tecnologia de purificação, como os filtros, atua diretamente na fonte de poluição, impedindo que os poluentes industriais sejam liberados na atmosfera. É uma medida essencial para indústrias pesadas.",
+                    afirmacao: "Você é uma pessoa futurista e que acha soluções mais diretas para o problema. "
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "O uso de veículos elétricos e híbridos... Esta é uma das soluções mais diretas e eficazes para combater a poluição veicular. Ao substituir os motores a combustão por motores elétricos, eliminamos uma das principais fontes de poluentes urbanos.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: " Você é uma pessoa cheia de criatividade e que busca pelo conhecimento cada dia."
                 }    
                
             ]
