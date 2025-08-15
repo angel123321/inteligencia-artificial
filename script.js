@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Como a inteligência artificial pode ser aplicada para prever e mitigar os impactos das mudanças climáticas, oferecendo duas abordagens principais para essa questão?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
+                texto: "Análise de grandes volumes de dados ambientais para identificar padrões e tendências, auxiliando na criação de modelos preditivos mais precisos sobre eventos climáticos extremos e seus efeitos.",
                 afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
+                texto:  "Otimização do consumo de energia em indústrias e cidades, além do desenvolvimento de sistemas de gestão de recursos hídricos mais eficientes, com base em análises em tempo real de dados de sensores e satélites.",
                 afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
             }    
            
